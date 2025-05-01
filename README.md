@@ -31,10 +31,10 @@ How do crime types vary by shift time?
 ### Importance
 This question is useful for the general public, law enforcement officers, as well as policymakers. The answers to this question allows for the education of the public on the most prevalent crimes, when they occur, and measures they can take to prevent crimes. In addition, law enforcement staffing and law enforcement patrol patterns may be evaluated for effectiveness or areas of potential change and improvement. Policymakers can use this question to develop crime prevention policies for societal safety and economic development.
 
-## Results
+### Results
 Theft is the most prevalent type of crime, with motor vehicle theft and other forms of theft occurring significantly more often than crimes like burglary or assault with a deadly weapon. Interestingly, despite the common perception that being out at night is more dangerous, crime rates are actually lower during the midnight shift compared to the day and evening shifts. In fact, day and evening shifts tend to experience similar levels of crime activity, challenging assumptions about when individuals are most at risk. In addition, burglary and assault with deadly weapons occur significantly less than motor vehicle theft and other theft crimes
 
-## Analysis
+### Analysis
 Understanding time-specific crime trends can help law enforcement and city planners allocate resources more effectively. With higher crime rates during the day and evening shifts, more officers can be assigned to patrol during these times, particularly in areas prone to theft such as parking lots and residential neighborhoods. Targeted training for officers on theft prevention, along with incentives to encourage coverage during peak crime hours, can further enhance safety. Additionally, this data can guide policymakers in deciding how to allocate funds—whether through public education on theft prevention, supporting law enforcement efforts, or enforcing harsher penalties for theft-related crimes.
 
 
@@ -46,10 +46,10 @@ How do the amount of crimes and type of offense vary by voting precinct? (focusi
 ### Importance
 This question is important for the general civilian public, law enforcement, and policymakers. For normal citizens, it can help them decide where to live or places to avoid when moving or purchasing a new home, depending on crime rates. It helps law enforcement officers decide on force distribution and patrolling methods. Through answering this question, trends can be exposed in implications of policies, demographics, and poverty levels, showing policymakers potential social and economic issues that need to be solved.
 
-## Results
+### Results
 The heatmap illustrates the frequency of various types of offenses across voting precincts 1 through 10 in Washington, DC, with offense types represented by rows and precincts by columns. It reveals that precincts 1, 2, 4, 5, and 6 experience significantly higher total crime rates across all categories, with theft standing out as the most commonly committed offense. This pattern highlights a clear need for targeted and enhanced efforts to address theft, especially in the precincts with the highest overall crime rates.
 
-## Analysis
+### Analysis
 The data suggests a need for increased law enforcement presence and improved surveillance technology in precincts with higher crime rates, particularly precincts 1, 2, 4, 5, and 6. One possible strategy could involve reallocating executive forces from lower-crime precincts such as 3 and 7–10 to the areas with greater need. Additionally, addressing underlying social issues like poverty and homelessness could help reduce theft and other related crimes. Policy adjustments, including stricter penalties for theft like longer jail sentences and heavier fines, may also serve as deterrents. At the community level, educational programs can raise awareness about theft and encourage proactive measures for personal safety. Moreover, evaluating and improving infrastructure related to crime reporting—such as emergency call response times and reporting system reliability—is crucial. Finally, investing in environmental design solutions like better street and parking lot lighting can help prevent theft by increasing visibility and perceived safety.
 
 ## Manipulations Applied
